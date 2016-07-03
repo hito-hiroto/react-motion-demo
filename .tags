@@ -1,0 +1,49 @@
+name	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "name": "cordova-react",$/;"	function	line:2
+version	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "description": "cordova-react",$/;"	function	line:4
+main	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "scripts": {$/;"	function	line:6
+start	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "start": "webpack --watch -d & node server.js",$/;"	function	line:7
+test	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "test": "mocha --require .\/test\/setup.js --compilers js:babel-register --recursive",$/;"	function	line:8
+test:watch	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "test:watch": "npm test -- --watch"$/;"	function	line:9
+author	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "author": "",$/;"	function	line:11
+license	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "license": "ISC",$/;"	function	line:12
+devDependencies	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "devDependencies": {$/;"	function	line:13
+babel-core	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "babel-core": "^6.7.7",$/;"	function	line:14
+babel-loader	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "babel-loader": "^6.2.4",$/;"	function	line:15
+babel-preset-es2015	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "babel-preset-es2015": "^6.6.0",$/;"	function	line:16
+babel-preset-react	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "babel-preset-react": "^6.5.0",$/;"	function	line:17
+babel-register	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "babel-register": "^6.9.0",$/;"	function	line:18
+browser-sync	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "browser-sync": "^2.12.5",$/;"	function	line:19
+css-loader	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "css-loader": "^0.23.1",$/;"	function	line:20
+css-modules-require-hook	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "css-modules-require-hook": "^4.0.1",$/;"	function	line:21
+eslint	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint": "^2.9.0",$/;"	function	line:22
+eslint-config-airbnb	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint-config-airbnb": "^9.0.1",$/;"	function	line:23
+eslint-loader	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint-loader": "^1.3.0",$/;"	function	line:24
+eslint-plugin-import	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint-plugin-import": "^1.8.1",$/;"	function	line:25
+eslint-plugin-jsx-a11y	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint-plugin-jsx-a11y": "^1.5.3",$/;"	function	line:26
+eslint-plugin-react	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "eslint-plugin-react": "^5.0.1",$/;"	function	line:27
+react-addons-test-utils	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react-addons-test-utils": "^15.1.0",$/;"	function	line:28
+react-hot-loader	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react-hot-loader": "^1.3.0",$/;"	function	line:29
+redux-devtools	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "redux-devtools": "^3.2.0",$/;"	function	line:30
+redux-mock-store	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "redux-mock-store": "^1.0.4",$/;"	function	line:31
+style-loader	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "style-loader": "^0.13.1",$/;"	function	line:32
+webpack	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "webpack": "^1.13.0",$/;"	function	line:33
+webpack-dev-middleware	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "webpack-dev-middleware": "^1.6.1",$/;"	function	line:34
+webpack-hot-middleware	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "webpack-hot-middleware": "^2.10.0"$/;"	function	line:35
+dependencies	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^  "dependencies": {$/;"	function	line:37
+react	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react": "^15.1.0",$/;"	function	line:38
+react-addons-css-transition-group	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react-addons-css-transition-group": "^15.1.0",$/;"	function	line:39
+react-dom	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react-dom": "^15.1.0",$/;"	function	line:40
+react-motion	/Users/TakayukiOchiai/ReactMotionDemo/package.json	/^    "react-motion": "^0.4.3"$/;"	function	line:41
+module.exports.debug	/Users/TakayukiOchiai/ReactMotionDemo/webpack.config.js	/^module.exports = {$/;"	property	line:7
+module.exports.devtool	/Users/TakayukiOchiai/ReactMotionDemo/webpack.config.js	/^  debug: true,$/;"	property	line:8
+module.exports.resolve	/Users/TakayukiOchiai/ReactMotionDemo/webpack.config.js	/^  devtool: '#eval-source-map',$/;"	property	line:9
+html	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^<html>$/;"	function	line:2
+head	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^    <title>Hello ReactMotion!<\/title>$/;"	function	line:5
+body	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^  <body>$/;"	function	line:7
+div	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^    <div id="app"><\/div>$/;"	function	line:8
+script	/Users/TakayukiOchiai/ReactMotionDemo/index.html	/^  <script type="text\/javascript" src=".\/dist\/bundle.js"><\/script>$/;"	function	line:11
+react-motion-demo	/Users/TakayukiOchiai/ReactMotionDemo/README.md	/^# react-motion-demo$/;"	function	line:1
